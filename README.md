@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🌴
 
 <!--
 **nielsvaes/nielsvaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[Richard Brenick](https://github.com/rbrenick) pointed out that it's impossible to get to someone's gists from their github page and isn't that just sad? 
+
+https://gist.github.com/nielsvaes
+
+tada, as well
