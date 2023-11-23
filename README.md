@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 https://gist.github.com/nielsvaes
 
 tada, as well
+
+Also, I'm on a widescreen monitor and moving my mouse all the way to the top left to go to my repositories is a bit of an annoyance. Now I can just click here for to go there: [https://github.com/nielsvaes?tab=repositories](https://github.com/nielsvaes?tab=repositories)
